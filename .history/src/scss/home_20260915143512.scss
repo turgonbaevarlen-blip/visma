@@ -1,0 +1,42 @@
+.home {
+    width: 100%;
+    height: 750px;
+    background-image: url("../img/Rectangle\ 23\ \(6\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    p113
+
+    &__blocks {
+        display: flex;
+        align-items: center;
+        gap: 134px;
+    }
+
+    &-block {
+        width: 526px;
+
+        &__title {
+            color: #ffffff;
+            text-align: left;
+            font-weight:700;
+            font-size: 50px;
+        }
+
+        &__subtitle {}
+
+        &__btn {
+
+            &-icon {}
+        }
+    }
+
+    &-services {
+
+        &__item {
+
+            &-span {}
+
+            &-text {}
+        }
+    }
+}

@@ -1,0 +1,42 @@
+.about {
+    padding: 100px 0 110px;
+}
+
+.about__title {
+    color: #333333;
+    text-align: left;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.about-blocks {}
+
+.about-blocks__texts {
+    width: 636px;
+    // height: 550px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+.about-blocks__texts-text {
+    color:#333333;
+text-align:left;
+font-size:16px;
+}
+
+.about-blocks__texts-ul {}
+
+.about-blocks__texts-li {
+    color:#333333;
+text-align:left;
+vertical-align:text-top;
+font-size:16px;
+}
+
+.about-blocks__videos {}
+
+.about-blocks__videos-video {}
+
+.about-blocks__videos-request {}

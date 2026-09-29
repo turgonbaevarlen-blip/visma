@@ -1,0 +1,30 @@
+.news {
+    margin: 150px 0;
+}
+
+.news_block {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.news-titleBlock {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.news-titleBlock__title {}
+
+.news-titleBlock__btn {}
+
+.news-cards {}
+
+.news-cards__card {}
+
+.news-cards__card-img {}
+
+.news-cards__card-title {}
+
+.news-cards__card-text {}

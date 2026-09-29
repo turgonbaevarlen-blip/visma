@@ -1,0 +1,57 @@
+.home {
+    width: 100%;
+    height: 750px;
+    background-image: url("../img/Rectangle\ 23\ \(6\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 113px 0;
+
+    &__blocks {
+        display: flex;
+        align-items: center;
+        gap: 134px;
+    }
+
+    &-block {
+        width: 526px;
+
+        &__title {
+            color: #ffffff;
+            text-align: left;
+            font-weight: 700;
+            font-size: 50px;
+        }
+
+        &__subtitle {
+            width: 322px;
+            margin: 40px 0 60px;
+            color: #ffffff;
+            text-align: left;
+            font-size: 16px;
+        }
+
+        &__btn {
+            width: 159px;
+            height: 30px;
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            gap: 15px;
+            border:none;
+outline:none;
+cursor:pointer;
+
+            &-icon {}
+        }
+    }
+
+    &-services {
+
+        &__item {
+
+            &-span {}
+
+            &-text {}
+        }
+    }
+}
